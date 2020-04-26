@@ -16,7 +16,7 @@
         android:inputType="text" />
 
     <Button
-        android:id="@+id/bt_click"
+        android:id="@+id/btClick"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/bt_click"/>
